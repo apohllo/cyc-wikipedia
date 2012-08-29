@@ -14,3 +14,5 @@ Description of the files:
   classification results for the definition-based method
 * semantic_category_mapping_cyc_ids.csv - handcrafted mapping between
   Wikipedia categories and Cyc collections
+
+Full results available upon request.
