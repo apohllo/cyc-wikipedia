@@ -15,4 +15,4 @@ Description of the files:
 * semantic_category_mapping_cyc_ids.csv - handcrafted mapping between
   Wikipedia categories and Cyc collections
 
-Full results available upon request.
+Full results available under http://klon.wzks.uj.edu.pl/wiki-types/.
